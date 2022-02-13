@@ -1,5 +1,5 @@
 # Counting Triangles in a Node Graph with Python
-Written by Doug Issichopoulos, [dougissi.com](https://www.dougissi.com/)
+Written by Doug Issichopoulos, <a href="https://www.dougissi.com/" target="_blank">dougissi.com</a>
 
 Feb 6, 2020
 
@@ -143,6 +143,6 @@ No other paths represent triangles except those on the diagonal.
 Therefore, `S.dot(S).dot(S).trace() / 6` represents the number of triangles!
 
 ## Code Examples
-Here is a [link](jupyter-notebook.html) to a full-page view of a Jupyter notebook that demonstrates the example we've worked through here, as well as one additional example.
+Here is a <a href="https://www.dougissi.com/counting-triangles/jupyter-notebook.html/" target="_blank">link to a Jupyter Notebook</a> that demonstrates the example we've worked through here, as well as one additional example.
 
 Or you can download a copy of the .ipynb file [here](/assets/counting-triangles-in-node-graphs.ipynb).
