@@ -6,7 +6,7 @@ Feb 6, 2020
 ![Counting Triangles Icon](/assets/counting_triangles_icon.jpg)
 
 ## Motivation
-One day at work with [Humanyze](https://humanyze.com/){:target="_blank"}, I came across a particularly elegant and mysterious method
+One day at work with <a href="https://humanyze.com/" target="_blank">Humanyze</a>, I came across a particularly elegant and mysterious method
 to count the number of triangles in a node graph (in python).
 
 > Suppose `S` is a numpy array of the square matrix representation of an undirected node graph (with no self edges), then
