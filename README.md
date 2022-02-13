@@ -23,7 +23,7 @@ on counting triangles, quadrilaterals, and pentagons\]_
 
 ## Why it works
 Let's consider a simple node graph
-![Simple Node Graph](/assets/images/simple_node_graph.jpg)
+![Simple Node Graph](/assets/simple_node_graph.jpg)
 
 ### Starting with S
 The matrix representation `S` of this node graph would be the following
@@ -145,8 +145,6 @@ No other paths represent triangles except those on the diagonal.
 Therefore, `S.dot(S).dot(S).trace() / 6` represents the number of triangles!
 
 ## Code Examples
-Below I have embedded the html version of a Jupyter notebook that demonstrates the example we've worked through
-here, as well as one additional example.
+Here is a [link](jupyter-notebook.html) to a full-page view of a Jupyter notebook that demonstrates the example we've worked through here, as well as one additional example.
 
-Here is a [link]({{ page.embedding_path }}) to a full-page view of the notebook.
-Or you can download a copy of the .ipynb file [here](/assets/counting_triangles/Counting Triangles in Node Graphs.ipynb).
+Or you can download a copy of the .ipynb file [here](Counting Triangles in Node Graphs.ipynb).
