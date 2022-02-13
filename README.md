@@ -147,4 +147,4 @@ Therefore, `S.dot(S).dot(S).trace() / 6` represents the number of triangles!
 ## Code Examples
 Here is a [link](jupyter-notebook.html) to a full-page view of a Jupyter notebook that demonstrates the example we've worked through here, as well as one additional example.
 
-Or you can download a copy of the .ipynb file [here](Counting Triangles in Node Graphs.ipynb).
+Or you can download a copy of the .ipynb file [here](/assets/counting-triangles-in-node-graphs.ipynb).
