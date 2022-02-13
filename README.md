@@ -1,10 +1,12 @@
 # Counting Triangles in a Node Graph with Python
-Repository: `counting-triangles`
+Written by Doug Issichopoulos, <a href="https://www.dougissi.com/" target="_blank">dougissi.com</a>
+
+Feb 6, 2020
 
 ![Counting Triangles Icon](/assets/counting_triangles_icon.jpg)
 
 ## Motivation
-One day at work with [Humanyze](https://humanyze.com/), I came across a particularly elegant and mysterious method
+One day at work with <a href="https://humanyze.com/" target="_blank">Humanyze</a>, I came across a particularly elegant and mysterious method
 to count the number of triangles in a node graph (in python).
 
 > Suppose `S` is a numpy array of the square matrix representation of an undirected node graph (with no self edges), then
@@ -141,6 +143,6 @@ No other paths represent triangles except those on the diagonal.
 Therefore, `S.dot(S).dot(S).trace() / 6` represents the number of triangles!
 
 ## Code Examples
-Here is a [link](jupyter-notebook.html) to a full-page view of a Jupyter notebook that demonstrates the example we've worked through here, as well as one additional example.
+Here is a <a href="https://www.dougissi.com/counting-triangles/jupyter-notebook.html/" target="_blank">link to a Jupyter Notebook</a> that demonstrates the example we've worked through here, as well as one additional example.
 
 Or you can download a copy of the .ipynb file [here](/assets/counting-triangles-in-node-graphs.ipynb).
