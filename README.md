@@ -19,6 +19,10 @@ and then getting the trace of the result (i.e., the sum of the values on diagona
 
 But what does any of that have to do with triangles? I mean, the _trace_, really?
 
+_\[Update: if you're curious about counting more than just triangles,
+also check out <a href="https://www.dougissi.com/counting-polygons" target="_blank">Counting Polygons in Node Graphs</a>
+for an investigation of counting triangles, quadrilaterals, and pentagons\]_
+
 ## Why it works
 Let's consider a simple node graph
 ![Simple Node Graph](/assets/simple_node_graph.jpg)
