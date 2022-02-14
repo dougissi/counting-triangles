@@ -1,4 +1,4 @@
-# Counting Triangles in a Node Graph with Python
+# Counting Triangles in Node Graphs with Python
 Written by Doug Issichopoulos, <a href="https://www.dougissi.com/" target="_blank">dougissi.com</a>
 
 Feb 6, 2020
